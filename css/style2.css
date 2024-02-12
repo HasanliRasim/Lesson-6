@@ -1,0 +1,23 @@
+* {
+  font-family: Montserrat, sans-serif;
+}
+
+#footer .heading-foot {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  text-decoration: none;
+}
+#footer .footer_list {
+  display: flex;
+  justify-content: space-evenly;
+  line-height: 30px;
+}
+#footer .footer_list .list_ul {
+  list-style-type: none;
+}
+#footer .foot_img {
+  display: flex;
+  justify-content: flex-end;
+}/*# sourceMappingURL=style2.css.map */

@@ -1,0 +1,25 @@
+* {
+  font-family: Montserrat, sans-serif;
+}
+
+#Footer .Footer-start {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+#Footer .Footer-start .Footer-ul {
+  list-style-type: none;
+  align-self: flex-start;
+  line-height: 30px;
+}
+#Footer .Footer-start .Footer-ul .List-h {
+  color: #252B42;
+}
+#Footer .Footer-start .Footer-ul .Ul-list {
+  color: #737373;
+}
+#Footer .Footer-end {
+  text-align: center;
+  color: #737373;
+}/*# sourceMappingURL=style.css.map */
