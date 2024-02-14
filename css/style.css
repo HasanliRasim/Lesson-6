@@ -13,6 +13,9 @@
   align-self: flex-start;
   line-height: 30px;
 }
+#Footer .Footer-start .Footer-ul .List-img {
+  margin-top: 10%;
+}
 #Footer .Footer-start .Footer-ul .List-h {
   color: #252B42;
 }

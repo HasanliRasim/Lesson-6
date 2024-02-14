@@ -1,5 +1,8 @@
 * {
   font-family: Montserrat, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 #footer .heading-foot {
@@ -10,14 +13,22 @@
   text-decoration: none;
 }
 #footer .footer_list {
+  margin-top: 20px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   line-height: 30px;
+  flex-wrap: wrap;
 }
 #footer .footer_list .list_ul {
   list-style-type: none;
+  margin: 0px 47px;
 }
 #footer .foot_img {
   display: flex;
   justify-content: flex-end;
+}
+#footer .foot_end {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
 }/*# sourceMappingURL=style2.css.map */
